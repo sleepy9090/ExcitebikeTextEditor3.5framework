@@ -7,7 +7,7 @@ Features:
 	* works with the USA/Japan ROM
 
 Requires:
-	* Targets .NET Framework 4.5
+	* Targets .NET Framework 3.5
 
 Usage:
 	*Open the Rom, change text, click update, make sure you have a backup in case something breaks.
